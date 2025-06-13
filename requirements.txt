@@ -1,0 +1,5 @@
+Flask==2.3.3
+pywebview[qt]==4.4.1  # Using Qt for cross-platform compatibility
+dominate==2.8.0
+mysql-connector-python==8.2.0
+Pillow==10.1.0
